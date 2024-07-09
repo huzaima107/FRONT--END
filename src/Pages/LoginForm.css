@@ -1,0 +1,20 @@
+.login-form {
+    max-width: 500px;
+    margin: 70px auto;
+    padding: 20px;
+    background-color: #ecf7fc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .login-form .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .login-form .btn {
+    width: 90%;
+    color: #998b8b;
+    
+    
+  }
+  
